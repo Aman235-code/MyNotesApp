@@ -1,0 +1,7 @@
+body{
+    background-color: yellow;
+}
+.card-body{
+    border: 2px solid blue;
+    background-color:chartreuse
+}
